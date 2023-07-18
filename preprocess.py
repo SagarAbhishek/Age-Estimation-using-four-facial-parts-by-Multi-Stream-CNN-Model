@@ -1,9 +1,4 @@
-#!/usr/bin/env python
-# vim: set fileencoding=utf-8 :
-# Marcus de Assis Angeloni <marcus.angeloni@ic.unicamp.br>
-# Rodrigo de Freitas Pereira <rodrigodefreitas12@gmail.com>
-# Helio Pedrini <helio@ic.unicamp.br>
-# Mon 7 Jan 2019 18:00:00
+
 
 import sys
 import scipy.io
